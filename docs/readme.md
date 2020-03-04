@@ -1,4 +1,3 @@
-# Teaching App - Design Document v3
 # Registration
 List of emails can be imported as an Excel file and an account is automatically created. Users will receive an email with an activation link. A password can be created when clicking on the activation link. On first login, users will be prompted for their name, level of training and school of anaesthesia (form fields can be prefilled if information is provided in the Excel file - users would just need to check and confirm).
 
